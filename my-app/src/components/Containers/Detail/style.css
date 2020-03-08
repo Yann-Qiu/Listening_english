@@ -1,0 +1,16 @@
+.detail img{
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+.prev{
+	margin-top: 50px;
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+}
+.next{
+	margin-top: 50px;
+	float: right;
+	font-size: 18px;
+	font-weight: bold;
+}
