@@ -1,2 +1,3 @@
 # Projet_Reactjs
-un projet utilise le framework Reactjs qui est suivi d'un cours sur Internet
+C'est un projet simple qui a utilisé le framework Reactjs.
+Attention : C'est un projet suivi le cours sur Internet !  
