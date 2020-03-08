@@ -1,2 +1,2 @@
 # Projet_Reactjs
-un projet suivi du cours sur Internet
+un projet utilise le framework Reactjs qui est suivi d'un cours sur Internet
