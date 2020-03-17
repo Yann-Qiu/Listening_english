@@ -1,3 +1,6 @@
+Attention : if you want to see the website after 'npm run build', you can download the file .zip,then open the repository 'build'. The file 'index.html' is the website you want !
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
